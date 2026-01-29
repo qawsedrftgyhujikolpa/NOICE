@@ -1,0 +1,7 @@
+__pycache__/
+uploads/
+processed_videos/
+server.log
+.idea/
+.vscode/
+*.pyc
