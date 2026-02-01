@@ -2,6 +2,6 @@ __pycache__/
 uploads/
 processed_videos/
 server.log
-.idea/
 .vscode/
-*.pyc
+*.mp4
+!noice_void_*.mp4
